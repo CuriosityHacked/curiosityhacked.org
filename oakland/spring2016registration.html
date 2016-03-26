@@ -17,6 +17,8 @@ function GetURLParameter(sParam)
     }
 }
 var paypal;
+var session;
+var ws;
 
 
 </script>
@@ -26,7 +28,6 @@ var paypal;
 <p>Questions on a class? info@curiosityhacked.org</p>
 </header>
 <form id="classselform" name="classselform">
-<label for='classsel'>Please verify the proper class is selected:</label>
 <div id='classsel'></div>
 <script>
 
@@ -36,9 +37,9 @@ var paypal;
      $.each(q, function(i,v){
        $.each(v.sessions, function(i1,v1){
          if (v1.sessionid === decodeURIComponent(GetURLParameter('a'))) {
-           var ws = v;
-           var session = v1;
-           $('#classsel').append('Registering for '+ws.title );
+           ws = v;
+           session = v1;
+           $('#classsel').append('<h4>Registering for '+ws.title+'</h4>' );
            paypal = session.paypaltag;
          }
        })
@@ -179,8 +180,8 @@ var paypal;
  $("#registrationform").submit(function( event ) {
     $('#formresult').empty();
 
-    $('#entry_1993237748').val($('#classsel').val());
-    $('#entry_1415844574').val( "winter"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
+    $('#entry_1993237748').val(session.sessionid);
+    $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
 
     var missingval = false;
     $.each($('#registrationform [required][type!=checkbox][type!=radio]').serializeArray(),function(i,v){
@@ -210,7 +211,7 @@ var paypal;
            $("#formresult").html("<h1>Fail</h1>");
          })
          .done(function(data) {
-           $("#formresult").html("<h1>"+data['success']+"  </h1><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id="+paypal[$('#entry_1993237748').val()]+"&custom="+$('#entry_1415844574').val()+"&invoice="+$('#entry_1415844574').val()+"'>Continue to payment</a>");
+           $("#formresult").html("<h1>"+data['success']+"  </h1><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id="+session.paypaltag+"&custom="+$('#entry_1415844574').val()+"&invoice="+$('#entry_1415844574').val()+"'>Continue to payment</a>");
            $("#ss-submit").hide();
            if ( data['success'] == "Success" ) {
 
