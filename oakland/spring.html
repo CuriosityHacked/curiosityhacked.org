@@ -106,7 +106,11 @@ layout: default
             <% _.each(_.sortBy(c.sessions, ['dayofweek']), function(session) { %>
               <div class='session buttonsmall <%= session.status == "" ? "ltblue" : "disabled" %>' id='<%= session.sessionid %>'>
                 <div class='session-title'>
+                  <% if (session.dowtext) { %>
+                  <%= session.dowtext %>
+                  <% } else { %>
                   <%= session.dayofweek %>s <%= session.time %>
+                  <% } %>
                 </div>
                 <div class='session-details'>
                   <ul>
