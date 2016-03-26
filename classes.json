@@ -1,126 +1,236 @@
 [
   {
-    "classid": "2df-one",
-    "title": "2D to 3D Fabrication First",
-    "description": "In this class, young hackers will become proficient in Inkscape and CAD as well as the elements of design, and then be able to accurately produce a 3D design that uses 2d parts, either on the laser cutter, 3D printer or another machine. This class is about how to make cool 3d stuff using 2d parts.  Kids will learn about making designs, choosing materials, joining parts (where your work first becomes 3D!) and fabrication. All kids will leave with a variety of projects and a badge!",
+    "classid": "chillo",
+    "title": "CHILL (Curiosity Hacked Independent Learning Lab)",
+    "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group",
     "approval": "",
-    "reoccurring": "",
+    "reoccurring": "yes",
     "sessions": [
       {
-        "sessionid": "2df-1",
-        "dates": "April 7- May 26",
-        "dayofweek": "Thursday",
-        "start": "13:00",
-        "end": "15:00",
-        "ages": "7-14",
-        "cost": "225",
+        "sessionid": "chillo3day",
+        "dates": "Monthly Ongoing",
+        "dayofweek": "Monday",
+        "start": "10:00",
+        "end": "16:00",
+        "ages": "11+",
+        "cost": "575",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
         "status":""
       },
       {
-        "sessionid": "2df-2",
-        "dates": "April 7- May 26",
-        "dayofweek": "Thursday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "7-14",
-        "cost": "225",
+        "sessionid": "chillo2day",
+        "dates": "Monthly Ongoing",
+        "dayofweek": "Tuesday",
+        "start": "10:00",
+        "end": "16:00",
+        "ages": "11+",
+        "cost": "395",
         "paypaltag": "paypal!",
-        "maxseats": "",
-        "status": ""
+        "maxseats": "18",
+        "status":""
       }
     ]
   },
   {
-    "classid": "2df-twp",
+    "classid": "chilly",
+    "title": "CHILL (Curiosity Hacked Independent Learning Lab)",
+    "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group",
+    "approval": "",
+    "reoccurring": "yes",
+    "sessions": [
+      {
+        "sessionid": "chilly2day",
+        "dates": "Monthly Ongoing",
+        "dayofweek": "Tuesday",
+        "start": "10:00",
+        "end": "16:00",
+        "ages": "7-10",
+        "cost": "395",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      },
+      {
+        "sessionid": "chilly2day",
+        "dates": "Monthly Ongoing",
+        "dayofweek": "Wednesday",
+        "start": "10:00",
+        "end": "16:00",
+        "ages": "7-10",
+        "cost": "210",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      }
+    ]
+  },
+  {
+    "classid": "2dto3d",
     "title": "2D to 3D Fabrication",
     "description": "In this class, young hackers will become proficient in Inkscape and CAD as well as the elements of design, and then be able to accurately produce a 3D design that uses 2d parts, either on the laser cutter, 3D printer or another machine. This class is about how to make cool 3d stuff using 2d parts.  Kids will learn about making designs, choosing materials, joining parts (where your work first becomes 3D!) and fabrication. All kids will leave with a variety of projects and a badge!",
     "approval": "",
     "reoccurring": "",
     "sessions": [
       {
-        "sessionid": "2df-1",
-        "dates": "April 7- May 26",
-        "dayofweek": "Monday",
+        "sessionid": "2dto3d-1",
+        "dates": "April 7 - May 26",
+        "dayofweek": "Thursdays",
         "start": "13:00",
         "end": "15:00",
         "ages": "7-14",
         "cost": "225",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
         "status":""
       },
       {
-        "sessionid": "2df-2",
-        "dates": "April 7- May 26",
-        "dayofweek": "Wednesday",
+        "sessionid": "2dto3d-2",
+        "dates": "April 7 - May 26",
+        "dayofweek": "Thursdays",
         "start": "16:00",
         "end": "18:00",
         "ages": "7-14",
         "cost": "225",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
         "status": ""
       }
     ]
   },
   {
-    "classid": "2df-three",
-    "title": "2D to 3D Fabrication Thirds",
-    "description": "In this class, young hackers will become proficient in Inkscape and CAD as well as the elements of design, and then be able to accurately produce a 3D design that uses 2d parts, either on the laser cutter, 3D printer or another machine. This class is about how to make cool 3d stuff using 2d parts.  Kids will learn about making designs, choosing materials, joining parts (where your work first becomes 3D!) and fabrication. All kids will leave with a variety of projects and a badge!",
+    "classid": "mth",
+    "title": "Making Through History: Davinci’s Machines",
+    "description": "In this 8 week class we will explore the extraordinary life and genius of Leonardo Davinci through his art and innovation. Projects based on his engineering and aesthetics will give a solid understanding of skills, design, and expansive thinking.",
     "approval": "",
     "reoccurring": "",
     "sessions": [
       {
-        "sessionid": "2df-1",
-        "dates": "April 7- May 26",
-        "dayofweek": "Monday",
-        "start": "11:00",
-        "end": "12:00",
-        "ages": "7-14",
+        "sessionid": "mth-1",
+        "dates": "April 8 - June 3",
+        "dayofweek": "Friday",
+        "start": "13:00",
+        "end": "15:00",
+        "ages": "7+",
         "cost": "225",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
         "status":""
       },
       {
-        "sessionid": "2df-2",
-        "dates": "April 7- May 26",
-        "dayofweek": "Wednesday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "7-14",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "",
-        "status": "This class is full"
-      },
-      {
-        "sessionid": "2df-2",
-        "dates": "April 7- May 26",
+        "sessionid": "mth-2",
+        "dates": "April 8 - June 3",
         "dayofweek": "Friday",
         "start": "16:00",
         "end": "18:00",
-        "ages": "7-14",
+        "ages": "7+",
         "cost": "225",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
         "status": ""
+      }
+    ]
+  },
+  {
+    "classid": "vgc",
+    "title": "Game Creation",
+    "description": "Get to the roots of game design with this 8 week course led by Jodediah. In this course, we'll be learning about games as an art form, then using our knowledge and our imaginations to make a digital, physical, or hybrid/experimental game using any of the materials available to us at Curiosity Hacked. By the end of the course, students will have games to take home, critiquing skills, and a fresh perspective on the creative potential of games as a medium!
+
+    Mentor Jodediah Holems is an award-winning game designer who loves weird, experimental, and artsy creations. They believe that games are as easy to make as any short story, homemade film, or colorful painting. Everyone can make games and everyone should! Games can be anything! ",
+    "approval": "",
+    "reoccurring": "",
+    "sessions": [
+      {
+        "sessionid": "vgc-1",
+        "dates": "April 5 - May 24",
+        "dayofweek": "Tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "ages": "10+ (exceptions made for younger students on a case by case basis)",
+        "cost": "195",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
       },
       {
-        "sessionid": "2df-1",
-        "dates": "April 7- May 26",
-        "dayofweek": "Monday",
-        "start": "9:00",
-        "end": "10:00",
-        "ages": "7-14",
+        "sessionid": "vgc-2",
+        "dates": "April 5 - May 24",
+        "dayofweek": "Tuesday",
+        "start": "16:00",
+        "end": "18:00",
+        "ages": "10+ (exceptions made for younger students on a case by case basis)",
+        "cost": "195",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      }
+    ]
+  },
+  {
+    "classid": "www",
+    "title": "Wooden Weapon Workshop - Crafting With Stone Age, Industrial Age, and Space Age Technology",
+    "description": "In this workshop for kids age 6-14 we will be crafting wooden weapons using everything from simple carving knives to power tools to our laser cutter. With knives we can create spears, atlatls, darts, throwing stars, and simple but effective traps and snares. Power tools offer us the ability to create wooden swords, axes, and shields. They aren't always pretty, but they are sturdy and fierce! The laser cutter utilizes more delicate wood, but allows for the creation of complex and fantastical weapon designs limited only by our imaginations. Children will also have the option to decorate and accessorize their weapons with paint, foam, leather, and more.",
+    "approval": "",
+    "reoccurring": "",
+    "sessions": [
+      {
+        "sessionid": "www-1",
+        "dates": "April 6 - May 25",
+        "dayofweek": "Wednesday",
+        "start": "16:00",
+        "end": "18:00",
+        "ages": "6-14",
         "cost": "225",
         "paypaltag": "paypal!",
-        "maxseats": "",
+        "maxseats": "18",
+        "status":""
+      },
+      {
+        "sessionid": "www-2",
+        "dates": "April 8- June 3 (no class May 20)",
+        "dayofweek": "Friday",
+        "start": "10:00",
+        "end": "12:00",
+        "ages": "6-14",
+        "cost": "225",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      }
+    ]
+  },
+  {
+    "classid": "ase",
+    "title": "Albany Guild (After School) at the Albany Community Center",
+    "description": "IThe Curiosity Hacked Guild is a weekly program for older children (4th-6th grade) who are ready for more complex skill building and a focus on their individual goals while building relationships within a community.This 6 week session will be spent continuing to build their knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse and more. The final six weeks will dive deeper into mentoring the kids in the areas of making that interest them most, resulting in a project of their own vision. This makes each session useful and accessible to every child, while also being different and customized to the group every time.
+    Held at the Albany Community Center on Marin Ave.",
+    "approval": "",
+    "reoccurring": "",
+    "sessions": [
+      {
+        "sessionid": "ase-1",
+        "dates": "April 18 - May 23",
+        "dayofweek": "Monday",
+        "start": "15:30",
+        "end": "17:30",
+        "ages": "4-6 grade",
+        "cost": "150",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      },
+      {
+        "sessionid": "ase-2",
+        "dates": "April 20 - May 25",
+        "dayofweek": "Wednesday",
+        "start": "14:00",
+        "end": "16:00",
+        "ages": "4-6 grade",
+        "cost": "150",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
         "status":""
       }
     ]
   }
-
 ]
