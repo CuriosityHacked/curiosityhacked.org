@@ -75,12 +75,14 @@ layout: default
         <% _.each(_.keys(days), function(day) { %>
           <td class='table-{{day}}'>
             <% _.each(days[day], function(session) { %>
+                <% if (!session.nocal) { %>
                 <div class='class-link buttonsmall ltblue' onclick='scrollToElement("#<%=session.classid%>")'>
                   <span class='class-link-text'>
                     <span class='class-link-time'><%= session.time %></span>
                     <span class='class-link-title'><%= session.title %></span>
                   </span>
                 </div>
+                <% } %>
             <% }); %>
           </td>
         <% }); %>
@@ -156,7 +158,7 @@ layout: default
         session.title = c.title;
         session.classid = c.classid;
         session.time = formatTime(session.start) + '-'+formatTime(session.end);
-        if (c.nocal != "yes") { days[session.dayofweek].push(session); }
+        days[session.dayofweek].push(session);
       });
     });
 
