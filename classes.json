@@ -8,8 +8,9 @@
     "sessions": [
       {
         "sessionid": "chillo3day",
-        "dates": "Monthly Ongoing, 3 days a week",
+        "dates": "Monthly, 3 days a week",
         "dayofweek": "Monday",
+        "dowtext": "Mondays, Tuesdays, Wednesdays",
         "start": "10:00",
         "end": "16:00",
         "ages": "11+",
@@ -20,8 +21,9 @@
       },
       {
         "sessionid": "chillo2day",
-        "dates": "Monthly Ongoing, 2 days a week",
+        "dates": "Monthly, 2 days a week",
         "dayofweek": "Tuesday",
+        "dowtext": "Mondays, Tuesdays, Wednesdays",
         "start": "10:00",
         "end": "16:00",
         "ages": "11+",
@@ -41,8 +43,9 @@
     "sessions": [
       {
         "sessionid": "chilly2day",
-        "dates": "Monthly Ongoing, 2 days a week",
-        "dayofweek": "Tuesday",
+        "dates": "Monthly, 2 days a week",
+        "dayofweek": "Wednesday",
+        "dowtext": "Wednesday and Thursdays",
         "start": "10:00",
         "end": "16:00",
         "ages": "7-10",
@@ -52,9 +55,11 @@
         "status":""
       },
       {
-        "sessionid": "chilly2day",
-        "dates": "Monthly Ongoing, 1 day a week",
+        "sessionid": "chilly1day",
+        "nocal" : "yes",
+        "dates": "Monthly, 1 day a week",
         "dayofweek": "Wednesday",
+        "dowtext": "Wednesday or Thursday",
         "start": "10:00",
         "end": "16:00",
         "ages": "7-10",
