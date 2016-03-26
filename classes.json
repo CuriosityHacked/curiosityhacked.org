@@ -205,7 +205,7 @@
   {
     "classid": "ase",
     "title": "Albany Guild (After School) at the Albany Community Center",
-    "description": "IThe Curiosity Hacked Guild is a weekly program for older children (4th-6th grade) who are ready for more complex skill building and a focus on their individual goals while building relationships within a community.This 6 week session will be spent continuing to build their knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse and more. The final six weeks will dive deeper into mentoring the kids in the areas of making that interest them most, resulting in a project of their own vision. This makes each session useful and accessible to every child, while also being different and customized to the group every time.<p>Held at the Albany Community Center on Marin Ave.",
+    "description": "The Curiosity Hacked Guild is a weekly program for older children (4th-6th grade) who are ready for more complex skill building and a focus on their individual goals while building relationships within a community.This 6 week session will be spent continuing to build their knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse and more. The final six weeks will dive deeper into mentoring the kids in the areas of making that interest them most, resulting in a project of their own vision. This makes each session useful and accessible to every child, while also being different and customized to the group every time.<p>Held at the Albany Community Center on Marin Ave.",
     "approval": "",
     "reoccurring": "",
     "sessions": [
@@ -229,6 +229,72 @@
         "end": "16:00",
         "ages": "4-6 grade",
         "cost": "150",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      }
+    ]
+  },
+  {
+    "classid": "lws",
+    "title": "Lasercutting Workshops",
+    "description": "Take one or take them all! Learn how to import images or create your own, convert your art, and cut them on wood, acrylic, chocolate or felt. All levels welcome.",
+    "approval": "",
+    "reoccurring": "",
+    "sessions": [
+      {
+        "sessionid": "lws-1",
+        "dates": "April 9",
+        "dayofweek": "Saturday",
+        "start": "10:00",
+        "end": "13:00",
+        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+        "cost": "75",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      },
+      {
+        "sessionid": "lws-2",
+        "dates": "May 14",
+        "dayofweek": "Saturday",
+        "start": "10:00",
+        "end": "13:00",
+        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+        "cost": "75",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      }
+    ]
+  },
+  {
+    "classid": "iotws",
+    "title": "Internet of Things Workshops",
+    "description": "All levels welcome.",
+    "approval": "",
+    "reoccurring": "",
+    "sessions": [
+      {
+        "sessionid": "iotws-1",
+        "dates": "April 23",
+        "dayofweek": "Saturday",
+        "start": "11:00",
+        "end": "15:30",
+        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+        "cost": "75",
+        "paypaltag": "paypal!",
+        "maxseats": "18",
+        "status":""
+      },
+      {
+        "sessionid": "iotws-2",
+        "dates": "May 28",
+        "dayofweek": "Saturday",
+        "start": "11:00",
+        "end": "15:30",
+        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+        "cost": "75",
         "paypaltag": "paypal!",
         "maxseats": "18",
         "status":""
