@@ -152,7 +152,7 @@ layout: default
         session.title = c.title;
         session.classid = c.classid;
         session.time = formatTime(session.start) + '-'+formatTime(session.end);
-        if (c.nocal) {} else { days[session.dayofweek].push(session); }
+        if (c.nocal == "yes") {} else { days[session.dayofweek].push(session); }
       });
     });
 
