@@ -56,7 +56,7 @@
       },
       {
         "sessionid": "chilly1day",
-        "nocal" : "yes",
+        "nocal": "yes",
         "dates": "Monthly, 1 day a week",
         "dayofweek": "Wednesday",
         "dowtext": "Wednesday or Thursday, 10 - 4",
@@ -257,6 +257,7 @@
       {
         "sessionid": "lws-2",
         "dates": "May 14",
+        "nocal": "yes",
         "dayofweek": "Saturday",
         "start": "10:00",
         "end": "13:00",
@@ -290,6 +291,7 @@
       {
         "sessionid": "iotws-2",
         "dates": "May 28",
+        "nocal": "yes",
         "dayofweek": "Saturday",
         "start": "11:00",
         "end": "15:30",
