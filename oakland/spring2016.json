@@ -1,310 +1,310 @@
 [
-  {
-    "classid": "chillo",
-    "title": "CHILL (Curiosity Hacked Independent Learning Lab)",
-    "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group",
-    "approval": "",
-    "reoccurring": "yes",
-    "sessions": [
-      {
-        "sessionid": "chillo3day",
-        "dates": "Monthly, 3 days a week",
-        "dayofweek": "Monday",
-        "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
-        "start": "10:00",
-        "end": "16:00",
-        "ages": "11+",
-        "cost": "575",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "chillo2day",
-        "dates": "Monthly, 2 days a week",
-        "dayofweek": "Tuesday",
-        "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
-        "start": "10:00",
-        "end": "16:00",
-        "ages": "11+",
-        "cost": "395",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "chilly",
-    "title": "CHILL (Curiosity Hacked Independent Learning Lab)",
-    "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group",
-    "approval": "",
-    "reoccurring": "yes",
-    "sessions": [
-      {
-        "sessionid": "chilly2day",
-        "dates": "Monthly, 2 days a week",
-        "dayofweek": "Wednesday",
-        "dowtext": "Wednesday and Thursdays, 10 - 4",
-        "start": "10:00",
-        "end": "16:00",
-        "ages": "7-10",
-        "cost": "395",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "chilly1day",
-        "nocal": "yes",
-        "dates": "Monthly, 1 day a week",
-        "dayofweek": "Wednesday",
-        "dowtext": "Wednesday or Thursday, 10 - 4",
-        "start": "10:00",
-        "end": "16:00",
-        "ages": "7-10",
-        "cost": "210",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "2dto3d",
-    "title": "2D to 3D Fabrication",
-    "description": "In this class, young hackers will become proficient in Inkscape and CAD as well as the elements of design, and then be able to accurately produce a 3D design that uses 2d parts, either on the laser cutter, 3D printer or another machine. This class is about how to make cool 3d stuff using 2d parts.  Kids will learn about making designs, choosing materials, joining parts (where your work first becomes 3D!) and fabrication. All kids will leave with a variety of projects and a badge!",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "2dto3d-1",
-        "dates": "April 7 - May 26",
-        "dayofweek": "Thursday",
-        "start": "13:00",
-        "end": "15:00",
-        "ages": "7-14",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "2dto3d-2",
-        "dates": "April 7 - May 26",
-        "dayofweek": "Thursday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "7-14",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "classid": "mth",
-    "title": "Making Through History: Davinci’s Machines",
-    "description": "In this 8 week class we will explore the extraordinary life and genius of Leonardo Davinci through his art and innovation. Projects based on his engineering and aesthetics will give a solid understanding of skills, design, and expansive thinking.",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "mth-1",
-        "dates": "April 8 - June 3",
-        "dayofweek": "Friday",
-        "start": "13:00",
-        "end": "15:00",
-        "ages": "7+",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "mth-2",
-        "dates": "April 8 - June 3",
-        "dayofweek": "Friday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "7+",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status": ""
-      }
-    ]
-  },
-  {
-    "classid": "vgc",
-    "title": "Game Creation",
-    "description": "Get to the roots of game design with this 8 week course led by Jodediah. In this course, we'll be learning about games as an art form, then using our knowledge and our imaginations to make a digital, physical, or hybrid/experimental game using any of the materials available to us at Curiosity Hacked. By the end of the course, students will have games to take home, critiquing skills, and a fresh perspective on the creative potential of games as a medium!<p>Mentor Jodediah Holems is an award-winning game designer who loves weird, experimental, and artsy creations. They believe that games are as easy to make as any short story, homemade film, or colorful painting. Everyone can make games and everyone should! Games can be anything! ",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "vgc-1",
-        "dates": "April 5 - May 24",
-        "dayofweek": "Tuesday",
-        "start": "13:30",
-        "end": "15:30",
-        "ages": "10+ (exceptions made for younger students on a case by case basis)",
-        "cost": "195",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "vgc-2",
-        "dates": "April 5 - May 24",
-        "dayofweek": "Tuesday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "10+ (exceptions made for younger students on a case by case basis)",
-        "cost": "195",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "www",
-    "title": "Wooden Weapon Workshop - Crafting With Stone Age, Industrial Age, and Space Age Technology",
-    "description": "In this workshop for kids age 6-14 we will be crafting wooden weapons using everything from simple carving knives to power tools to our laser cutter. With knives we can create spears, atlatls, darts, throwing stars, and simple but effective traps and snares. Power tools offer us the ability to create wooden swords, axes, and shields. They aren't always pretty, but they are sturdy and fierce! The laser cutter utilizes more delicate wood, but allows for the creation of complex and fantastical weapon designs limited only by our imaginations. Children will also have the option to decorate and accessorize their weapons with paint, foam, leather, and more.",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "www-1",
-        "dates": "April 6 - May 25",
-        "dayofweek": "Wednesday",
-        "start": "16:00",
-        "end": "18:00",
-        "ages": "6-14",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "www-2",
-        "dates": "April 8- June 3 (no class May 20)",
-        "dayofweek": "Friday",
-        "start": "10:00",
-        "end": "12:00",
-        "ages": "6-14",
-        "cost": "225",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "ase",
-    "title": "Albany Guild (After School) at the Albany Community Center",
-    "description": "The Curiosity Hacked Guild is a weekly program for older children (4th-6th grade) who are ready for more complex skill building and a focus on their individual goals while building relationships within a community.This 6 week session will be spent continuing to build their knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse and more. The final six weeks will dive deeper into mentoring the kids in the areas of making that interest them most, resulting in a project of their own vision. This makes each session useful and accessible to every child, while also being different and customized to the group every time.<p>Held at the Albany Community Center on Marin Ave.",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "ase-1",
-        "dates": "April 18 - May 23",
-        "dayofweek": "Monday",
-        "start": "15:30",
-        "end": "17:30",
-        "ages": "4-6 grade",
-        "cost": "150",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "ase-2",
-        "dates": "April 20 - May 25",
-        "dayofweek": "Wednesday",
-        "start": "14:00",
-        "end": "16:00",
-        "ages": "4-6 grade",
-        "cost": "150",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "lws",
-    "title": "Lasercutting Workshops",
-    "description": "Take one or take them all! Learn how to import images or create your own, convert your art, and cut them on wood, acrylic, chocolate or felt. All levels welcome.",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "lws-1",
-        "dates": "April 9",
-        "dayofweek": "Saturday",
-        "dowtext": "Saturday, April 9th",
-        "start": "10:00",
-        "end": "13:00",
-        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
-        "cost": "75",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "lws-2",
-        "dates": "May 14",
-        "nocal": "yes",
-        "dayofweek": "Saturday",
-        "dowtext": "Saturday, May 14th",
-        "start": "10:00",
-        "end": "13:00",
-        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
-        "cost": "75",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  },
-  {
-    "classid": "iotws",
-    "title": "Internet of Things Workshops",
-    "description": "All levels welcome.",
-    "approval": "",
-    "reoccurring": "",
-    "sessions": [
-      {
-        "sessionid": "iotws-1",
-        "dates": "April 23",
-        "dayofweek": "Saturday",
-        "dowtext": "Saturday, April 23rd",
-        "start": "11:00",
-        "end": "15:30",
-        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
-        "cost": "75",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      },
-      {
-        "sessionid": "iotws-2",
-        "dates": "May 28",
-        "nocal": "yes",
-        "dayofweek": "Saturday",
-        "dowtext": "Saturday, May 28th",
-        "start": "11:00",
-        "end": "15:30",
-        "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
-        "cost": "75",
-        "paypaltag": "paypal!",
-        "maxseats": "18",
-        "status":""
-      }
-    ]
-  }
+    {
+        "approval": "",
+        "classid": "chillo",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group",
+        "reoccurring": "yes",
+        "sessions": [
+            {
+                "ages": "11+",
+                "cost": "575",
+                "dates": "Monthly, 3 days a week",
+                "dayofweek": "Monday",
+                "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "SSRDUVXQ6Z3DE",
+                "sessionid": "chillo3day",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "11+",
+                "cost": "395",
+                "dates": "Monthly, 2 days a week",
+                "dayofweek": "Tuesday",
+                "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "9KFKPUD4YMWCC",
+                "sessionid": "chillo2day",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "CHILL (Curiosity Hacked Independent Learning Lab)"
+    },
+    {
+        "approval": "",
+        "classid": "chilly",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group",
+        "reoccurring": "yes",
+        "sessions": [
+            {
+                "ages": "7-10",
+                "cost": "395",
+                "dates": "Monthly, 2 days a week",
+                "dayofweek": "Wednesday",
+                "dowtext": "Wednesday and Thursdays, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "9345Z2ZHC82TN",
+                "sessionid": "chilly2day",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "7-10",
+                "cost": "210",
+                "dates": "Monthly, 1 day a week",
+                "dayofweek": "Wednesday",
+                "dowtext": "Wednesday or Thursday, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "F6G33BVYBM6ZY",
+                "sessionid": "chilly1day",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "CHILL (Curiosity Hacked Independent Learning Lab)"
+    },
+    {
+        "approval": "",
+        "classid": "2dto3d",
+        "description": "In this class, young hackers will become proficient in Inkscape and CAD as well as the elements of design, and then be able to accurately produce a 3D design that uses 2d parts, either on the laser cutter, 3D printer or another machine. This class is about how to make cool 3d stuff using 2d parts.  Kids will learn about making designs, choosing materials, joining parts (where your work first becomes 3D!) and fabrication. All kids will leave with a variety of projects and a badge!",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "7-14",
+                "cost": "225",
+                "dates": "April 7 - May 26",
+                "dayofweek": "Thursday",
+                "end": "15:00",
+                "maxseats": "18",
+                "paypaltag": "VTJEFNH28WWKL",
+                "sessionid": "2dto3d-1",
+                "start": "13:00",
+                "status": ""
+            },
+            {
+                "ages": "7-14",
+                "cost": "225",
+                "dates": "April 7 - May 26",
+                "dayofweek": "Thursday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "AY4QB3KKPBQQ4",
+                "sessionid": "2dto3d-2",
+                "start": "16:00",
+                "status": ""
+            }
+        ],
+        "title": "2D to 3D Fabrication"
+    },
+    {
+        "approval": "",
+        "classid": "mth",
+        "description": "In this 8 week class we will explore the extraordinary life and genius of Leonardo Davinci through his art and innovation. Projects based on his engineering and aesthetics will give a solid understanding of skills, design, and expansive thinking.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "7+",
+                "cost": "225",
+                "dates": "April 8 - June 3",
+                "dayofweek": "Friday",
+                "end": "15:00",
+                "maxseats": "18",
+                "paypaltag": "KKWUWZU7XUM64",
+                "sessionid": "mth-1",
+                "start": "13:00",
+                "status": ""
+            },
+            {
+                "ages": "7+",
+                "cost": "225",
+                "dates": "April 8 - June 3",
+                "dayofweek": "Friday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "795TDFGC2VVTL",
+                "sessionid": "mth-2",
+                "start": "16:00",
+                "status": ""
+            }
+        ],
+        "title": "Making Through History: Davinci\u2019s Machines"
+    },
+    {
+        "approval": "",
+        "classid": "vgc",
+        "description": "Get to the roots of game design with this 8 week course led by Jodediah. In this course, we'll be learning about games as an art form, then using our knowledge and our imaginations to make a digital, physical, or hybrid/experimental game using any of the materials available to us at Curiosity Hacked. By the end of the course, students will have games to take home, critiquing skills, and a fresh perspective on the creative potential of games as a medium!<p>Mentor Jodediah Holems is an award-winning game designer who loves weird, experimental, and artsy creations. They believe that games are as easy to make as any short story, homemade film, or colorful painting. Everyone can make games and everyone should! Games can be anything! ",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "10+ (exceptions made for younger students on a case by case basis)",
+                "cost": "195",
+                "dates": "April 5 - May 24",
+                "dayofweek": "Tuesday",
+                "end": "15:30",
+                "maxseats": "18",
+                "paypaltag": "W8QEA4VE4L89Y",
+                "sessionid": "vgc-1",
+                "start": "13:30",
+                "status": ""
+            },
+            {
+                "ages": "10+ (exceptions made for younger students on a case by case basis)",
+                "cost": "195",
+                "dates": "April 5 - May 24",
+                "dayofweek": "Tuesday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "YTYRFJ7XNBYRL",
+                "sessionid": "vgc-2",
+                "start": "16:00",
+                "status": ""
+            }
+        ],
+        "title": "Game Creation"
+    },
+    {
+        "approval": "",
+        "classid": "www",
+        "description": "In this workshop for kids age 6-14 we will be crafting wooden weapons using everything from simple carving knives to power tools to our laser cutter. With knives we can create spears, atlatls, darts, throwing stars, and simple but effective traps and snares. Power tools offer us the ability to create wooden swords, axes, and shields. They aren't always pretty, but they are sturdy and fierce! The laser cutter utilizes more delicate wood, but allows for the creation of complex and fantastical weapon designs limited only by our imaginations. Children will also have the option to decorate and accessorize their weapons with paint, foam, leather, and more.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "6-14",
+                "cost": "225",
+                "dates": "April 6 - May 25",
+                "dayofweek": "Wednesday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "DH5PNQ3W7X2KJ",
+                "sessionid": "www-1",
+                "start": "16:00",
+                "status": ""
+            },
+            {
+                "ages": "6-14",
+                "cost": "225",
+                "dates": "April 8- June 3 (no class May 20)",
+                "dayofweek": "Friday",
+                "end": "12:00",
+                "maxseats": "18",
+                "paypaltag": "9FVEKKRVRKTZA",
+                "sessionid": "www-2",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "Wooden Weapon Workshop - Crafting With Stone Age, Industrial Age, and Space Age Technology"
+    },
+    {
+        "approval": "",
+        "classid": "ase",
+        "description": "The Curiosity Hacked Guild is a weekly program for older children (4th-6th grade) who are ready for more complex skill building and a focus on their individual goals while building relationships within a community.This 6 week session will be spent continuing to build their knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse and more. The final six weeks will dive deeper into mentoring the kids in the areas of making that interest them most, resulting in a project of their own vision. This makes each session useful and accessible to every child, while also being different and customized to the group every time.<p>Held at the Albany Community Center on Marin Ave.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "4-6 grade",
+                "cost": "150",
+                "dates": "April 18 - May 23",
+                "dayofweek": "Monday",
+                "end": "17:30",
+                "maxseats": "18",
+                "paypaltag": "U5FJXQ8AABYCA",
+                "sessionid": "ase-1",
+                "start": "15:30",
+                "status": ""
+            },
+            {
+                "ages": "4-6 grade",
+                "cost": "150",
+                "dates": "April 20 - May 25",
+                "dayofweek": "Wednesday",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "QDSM72M9EG96Q",
+                "sessionid": "ase-2",
+                "start": "14:00",
+                "status": ""
+            }
+        ],
+        "title": "Albany Guild (After School) at the Albany Community Center"
+    },
+    {
+        "approval": "",
+        "classid": "lws",
+        "description": "Take one or take them all! Learn how to import images or create your own, convert your art, and cut them on wood, acrylic, chocolate or felt. All levels welcome.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "April 9",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, April 9th",
+                "end": "13:00",
+                "maxseats": "18",
+                "paypaltag": "LXMPMJT72G65W",
+                "sessionid": "lws-1",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "May 14",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, May 14th",
+                "end": "13:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "MY5UWQM4B5NZY",
+                "sessionid": "lws-2",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "Lasercutting Workshops"
+    },
+    {
+        "approval": "",
+        "classid": "iotws",
+        "description": "All levels welcome.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "April 23",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, April 23rd",
+                "end": "15:30",
+                "maxseats": "18",
+                "paypaltag": "5RGZGSPY8UDKY",
+                "sessionid": "iotws-1",
+                "start": "11:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "May 28",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, May 28th",
+                "end": "15:30",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "NN3PVMWGLR4E4",
+                "sessionid": "iotws-2",
+                "start": "11:00",
+                "status": ""
+            }
+        ],
+        "title": "Internet of Things Workshops"
+    }
 ]
