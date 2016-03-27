@@ -45,7 +45,7 @@ var ws;
        })
       })
     });
-    if ((!paypal || 0 === paypal.length)||(!GetURLParameter('a'))) {
+    if ((!paypal)||(!GetURLParameter('a'))) {
       $('#classsel').append('<h2 style="color: red;">No Class Selected, please go back to the schedule.</h2>');
     }
  });
