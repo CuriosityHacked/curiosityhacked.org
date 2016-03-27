@@ -57,11 +57,11 @@
                 "ages": "7-10",
                 "cost": "210",
                 "dates": "Monthly, 1 day a week",
-                "dayofweek": "Wednesday",
+                "dayofweek": "Thursday",
                 "dowtext": "Wednesday or Thursday, 10 - 4",
                 "end": "16:00",
                 "maxseats": "18",
-                "nocal": "yes",
+                "nocal": "no",
                 "paypaltag": "F6G33BVYBM6ZY",
                 "sessionid": "chilly1day",
                 "start": "10:00",
@@ -142,18 +142,6 @@
         "description": "Get to the roots of game design with this 8 week course led by Jodediah. In this course, we'll be learning about games as an art form, then using our knowledge and our imaginations to make a digital, physical, or hybrid/experimental game using any of the materials available to us at Curiosity Hacked. By the end of the course, students will have games to take home, critiquing skills, and a fresh perspective on the creative potential of games as a medium!<p>Mentor Jodediah Holems is an award-winning game designer who loves weird, experimental, and artsy creations. They believe that games are as easy to make as any short story, homemade film, or colorful painting. Everyone can make games and everyone should! Games can be anything! ",
         "reoccurring": "",
         "sessions": [
-            {
-                "ages": "10+ (exceptions made for younger students on a case by case basis)",
-                "cost": "195",
-                "dates": "April 5 - May 24",
-                "dayofweek": "Tuesday",
-                "end": "15:30",
-                "maxseats": "18",
-                "paypaltag": "W8QEA4VE4L89Y",
-                "sessionid": "vgc-1",
-                "start": "13:30",
-                "status": ""
-            },
             {
                 "ages": "10+ (exceptions made for younger students on a case by case basis)",
                 "cost": "195",
