@@ -186,7 +186,7 @@ alert("2");
     $('#formresult').empty();
 
     $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
-
+    alert('3a');
     var missingval = false;
     $.each($('#registrationform [required][type!=checkbox][type!=radio]').serializeArray(),function(i,v){
         if (v['value'] == ""){
@@ -196,20 +196,25 @@ alert("2");
         };
      })
      if ( missingval ) { return false; }
+     alert('3b');
 
      if (typeof $('#registrationform [name="entry.1198401305"]:checked').val() == 'undefined') {
         gotoBlink('entry.1198401305');
         missingval = true;
      }
      if ( missingval ) { return false; }
+     alert('3c');
 
      if (typeof $('#registrationform [required][type=checkbox]:not(:checked)')[0] != 'undefined') {
         gotoBlink($('#registrationform [required][type=checkbox]:not(:checked)')[0].name);
         missingval = true;
      }
      if ( missingval ) { return false; }
-     
+     alert('3d');
+
      event.preventDefault();
+     alert('3e');
+
      $("#formresult").html("<h1>Submitting</h1>");
      $.post( "http://steam.curiosityhacked.org/cgi-bin/registration.py", $( "#registrationform" ).serialize() )
         .fail(function(data) {
@@ -222,10 +227,11 @@ alert("2");
 
            }
          });
+         alert('3done');
      return false;
   };
-
+   alert('4');
   // Attach a submit handler to the form
    $("#registrationform").submit(runForm(event));
-   alert('4');
+   alert('5');
 </script>
