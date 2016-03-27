@@ -2,7 +2,7 @@
     {
         "approval": "",
         "classid": "chillo",
-        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group<p><a href='oakland/CHILL'>Learn more about CHILL</a>",
         "reoccurring": "yes",
         "sessions": [
             {
@@ -37,7 +37,7 @@
     {
         "approval": "",
         "classid": "chilly",
-        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group<p><a href='oakland/CHILL'>Learn more about CHILL</a>",
         "reoccurring": "yes",
         "sessions": [
             {
