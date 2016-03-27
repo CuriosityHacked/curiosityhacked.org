@@ -41,6 +41,7 @@ var ws;
            session = v1;
            $('#classsel').append('<h4>Registering for: </h4><label class="ss-q-item-label">'+ws.title+'</label>' );
            paypal = session.paypaltag;
+           $('#entry_1993237748').val(v1.sessionid);
          }
        })
       })
@@ -179,9 +180,9 @@ var ws;
 
 // Attach a submit handler to the form
  $("#registrationform").submit(function( event ) {
+    alert('i ran');
     $('#formresult').empty();
 
-    $('#entry_1993237748').val(v1.sessionid);
     $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
 
     var missingval = false;
