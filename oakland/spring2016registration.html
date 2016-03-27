@@ -19,41 +19,31 @@ function GetURLParameter(sParam)
 var paypal;
 var session;
 var ws;
-
-
 </script>
 <header class='major'>
 <h2>Curiosity Hacked Class Registration</h2>
 <p>Thank you for your interest in our classes.</p>
 <p>Questions on a class? info@curiosityhacked.org</p>
 </header>
-
+<form id="classselform" name="classselform">
 <div id='classsel'></div>
 <script>
-
  $(function(){
-
    $.getJSON("oakland/spring2016.json","",function(q){
      $.each(q, function(i,v){
        $.each(v.sessions, function(i1,v1){
          if (v1.sessionid === decodeURIComponent(GetURLParameter('a'))) {
            ws = v;
            session = v1;
-           $('#classsel').append('<h4>Registering for: </h4><label class="ss-q-item-label">'+ws.title+session.paypaltag+'</label>' );
+           $('#classsel').append('<h4>Registering for: </h4><label class="ss-q-item-label">'+ws.title+'</label>' );
            paypal = session.paypaltag;
-           $('#entry_1993237748').val(v1.sessionid);
          }
        })
       })
-    });
     if ((!paypal)||(!GetURLParameter('a'))) {
       $('#classsel').append('<h2 style="color: red;">No Class Selected, please go back to the schedule.</h2>');
     }
-<<<<<<< HEAD
   });
-  alert("1");
-=======
->>>>>>> parent of 312e0bc... edits
  });
 </script>
 
@@ -175,7 +165,6 @@ var ws;
 <div id="formresult"></div>
 </form>
 <script>
-alert("2");
 //<span id="formsubmit" class="smallbutton ltblue">Register and go to payment</span>
   function gotoBlink(blinkthis){
      acton = $('[name="'+blinkthis+'"]');
@@ -183,14 +172,11 @@ alert("2");
      $('[name="'+v["name"]+'"]').attr('style','border: 1px solid #FF0000');
      $("#formresult").html("<h1>Please check required fields for validity.</h1>");
   };
-
-
- function runForm( event ) {
-    alert('3');
+// Attach a submit handler to the form
+ $("#registrationform").submit(function( event ) {
     $('#formresult').empty();
-
+    $('#entry_1993237748').val(session.sessionid);
     $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
-    alert('3a');
     var missingval = false;
     $.each($('#registrationform [required][type!=checkbox][type!=radio]').serializeArray(),function(i,v){
         if (v['value'] == ""){
@@ -200,25 +186,17 @@ alert("2");
         };
      })
      if ( missingval ) { return false; }
-     alert('3b');
-
      if (typeof $('#registrationform [name="entry.1198401305"]:checked').val() == 'undefined') {
         gotoBlink('entry.1198401305');
         missingval = true;
      }
      if ( missingval ) { return false; }
-     alert('3c');
-
      if (typeof $('#registrationform [required][type=checkbox]:not(:checked)')[0] != 'undefined') {
         gotoBlink($('#registrationform [required][type=checkbox]:not(:checked)')[0].name);
         missingval = true;
      }
      if ( missingval ) { return false; }
-     alert('3d');
-
      event.preventDefault();
-     alert('3e');
-
      $("#formresult").html("<h1>Submitting</h1>");
      $.post( "http://steam.curiosityhacked.org/cgi-bin/registration.py", $( "#registrationform" ).serialize() )
         .fail(function(data) {
@@ -228,14 +206,8 @@ alert("2");
            $("#formresult").html("<h1>"+data['success']+"  </h1><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id="+paypal+"&custom="+$('#entry_1415844574').val()+"&invoice="+$('#entry_1415844574').val()+"'>Continue to payment</a>");
            $("#ss-submit").hide();
            if ( data['success'] == "Success" ) {
-
            }
          });
-         alert('3done');
      return false;
-  };
-   alert('4');
-  // Attach a submit handler to the form
-   $("#registrationform").submit(runForm(event));
-   alert('5');
+  });
 </script>
