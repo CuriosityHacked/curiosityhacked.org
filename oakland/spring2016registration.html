@@ -45,10 +45,7 @@ var ws;
        })
       })
     });
-    if ($('#classsel').html() == ""){
-      $('#classsel').append('<h2 style="color: red;">No Class Selected, please go back to the schedule.</h2>');
-    }
-    if (!GetURLParameter('a')) {
+    if ((paypal == "")||(!GetURLParameter('a'))) {
       $('#classsel').append('<h2 style="color: red;">No Class Selected, please go back to the schedule.</h2>');
     }
  });
