@@ -49,6 +49,7 @@ var ws;
       $('#classsel').append('<h2 style="color: red;">No Class Selected, please go back to the schedule.</h2>');
     }
   });
+  alert("1");
  });
 </script>
 
@@ -170,6 +171,7 @@ var ws;
 <div id="formresult"></div>
 </form>
 <script>
+alert("2");
 //<span id="formsubmit" class="smallbutton ltblue">Register and go to payment</span>
   function gotoBlink(blinkthis){
      acton = $('[name="'+blinkthis+'"]');
@@ -180,7 +182,7 @@ var ws;
 
 // Attach a submit handler to the form
  $("#registrationform").submit(function( event ) {
-    alert('i ran');
+    alert('3');
     $('#formresult').empty();
 
     $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
