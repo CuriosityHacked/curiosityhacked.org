@@ -10,7 +10,7 @@ What if the hackerspace and mentors were accessible all the time so that a space
 
 This January, we will be starting a part time program in our Oakland location, with the intention of adding a full time program for all ages, hopefully in Autumn 2016. Initially, we are focusing on middle school to early high school age kids who can commit to 2-3 days a week. We will be expanding the ages as our community needs.
 
-<br><span class="date" style="display: inline;">Register: </span><span class='buttonsmall ltblue' onClick=" window.location.assign('/oakland/spring);">Schedule</span>
+<br><span class="date" style="display: inline;">Register: </span><span class='buttonsmall ltblue' onClick="window.location.assign('/oakland/spring');">Schedule</span>
 
 
 
