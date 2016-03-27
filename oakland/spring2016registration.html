@@ -41,12 +41,13 @@ var ws;
            session = v1;
            $('#classsel').append('<h4>Registering for: </h4><label class="ss-q-item-label">'+ws.title+'</label>' );
            paypal = session.paypaltag;
-         } else { $('#classsel').append('<h2 style='color: red;'>No Class Selected, please go back to the schedule.</h2>'); }
+         }
        })
       })
     });
-
-
+    if (!GetURLParameter('a')) {
+      $('#classsel').append('<h2 style='color: red;'>No Class Selected, please go back to the schedule.</h2>');
+    }
  });
 </script>
 
