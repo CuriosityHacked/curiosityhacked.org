@@ -224,7 +224,7 @@
                 "cost": "300",
                 "dates": "April 18 - May 25",
                 "dayofweek": "Wednesday",
-		"dottext": "Wednesday and Monday",
+		"dowtext": "Monday and Wednesday",
 		"nocal": "yes",
                 "end": "16:00",
                 "maxseats": "18",
