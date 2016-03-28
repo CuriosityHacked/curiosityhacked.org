@@ -218,6 +218,20 @@
                 "sessionid": "ase-2",
                 "start": "14:00",
                 "status": ""
+            },
+            {
+                "ages": "4-6 grade",
+                "cost": "300",
+                "dates": "April 18 - May 25",
+                "dayofweek": "Wednesday",
+		"dottext": "Wednesday and Monday"
+		"nocal": "yes",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "H97VM6LN7H8N",
+                "sessionid": "ase-3",
+                "start": "14:00",
+                "status": ""
             }
         ],
         "title": "Albany Guild (After School) at the Albany Community Center"
