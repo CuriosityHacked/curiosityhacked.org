@@ -32,6 +32,10 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 - March 13th, 2016: Pi Day! One day early, but worth a fun day of projects based on the mathematical constant!
 - March 20th, 2016: Celebrate the arrival of Spring with us! Color eggs with natural dyes, create designs for the Eggbot, lasercut chocolate, and needlefelt wool bunnies and chicks (or whatever inspires you!)
 - March 27th, 2016: No Open Lab
+- April 3rd, 2016: Build an Automata!
+- April 10th, 2016: Window Bird Feeders 
+- April 17th, 2016: Tiny Matrix: Learn mathematical conversion to code and create your own images on an LED pendant!
+- April 24th, 2016: It's warming up! Outdoor toys: Make Hoola Hoops, Balance Boards, Croquet- what do you want to play?!
 
 ## Past Projects:
 - September 7th, 2014 - Micro Crossbows - design by [Sonic Dad](http://www.sonicdad.com/project-details/micro-crossbow/)
