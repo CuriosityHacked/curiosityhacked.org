@@ -16,7 +16,7 @@ Oakland, CA 94609
 
 <em>If you're interested in using CHOL for your after-school group or science club, contact us at info@curiosityhacked.org</em>
 
-### Upcoming 2015 Open Lab Featured Projects:
+### Upcoming 2016 Open Lab Featured Projects:
 Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $5-$15 depending on the project.
 
 
