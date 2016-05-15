@@ -19,23 +19,16 @@ Oakland, CA 94609
 ### Upcoming 2015 Open Lab Featured Projects:
 Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $5-$15 depending on the project.
 
-- January 3rd, 2016: Resolutions Open Lab! Learn a new skill or tool, get help planning a new project... we will show you the possibilities!
-- January 10th, 2016: Mouse Trap Race Cars and Derby!
-- January 17th, 2016: Laser cutting!
-- January 24th, 2016: We have gotten a lot of requests for light sabers lately. The force is obviously strong with our young hackers! Let's do it. (Can't guarantee a spoiler free environment, but we'll try)
-- January 31st, 2016: Micro-Crossbows
-- February 7th, 2016: Cork Launchers and Mechanical Hands
-- February 14th, 2016: Victorian Valentines, Hat making, Steampunk Goggles
-- February 21st, 2016: Kids Choice! Although, at our Lab it's always kids choice!
-- February 28th, 2016: Pixels! Come dive into 3 projects that illustrate the beauty, function, and mathematics of pixels!
-- March 6th, 2016: Celebrate National Frozen Food Day with liquid nitrogen experiments and ice cream!
-- March 13th, 2016: Pi Day! One day early, but worth a fun day of projects based on the mathematical constant!
-- March 20th, 2016: Celebrate the arrival of Spring with us! Color eggs with natural dyes, create designs for the Eggbot, lasercut chocolate, and needlefelt wool bunnies and chicks (or whatever inspires you!)
-- March 27th, 2016: No Open Lab
-- April 3rd, 2016: Build an Automata!
-- April 10th, 2016: Window Bird Feeders 
-- April 17th, 2016: Tiny Matrix: Learn mathematical conversion to code and create your own images on an LED pendant!
-- April 24th, 2016: It's warming up! Outdoor toys: Make Hoola Hoops, Balance Boards, Croquet- what do you want to play?!
+
+- May 15, 2016 NO OPEN LAB
+- May 20-22, 2016 NO OPEN LAB: We will be at the Bay Area Maker Faire in San Mateo! Come check out our booth, and join ED Samantha Cook on the education stage (Sunday 3:30pm) as she and a panel of teens discuss the experience of designing and facilitating a community maker free school.
+- May 29th, 2016 NO OPEN LAB
+- June 5th, 2016 Come check out our CHILL program's Steampunk exhibit in the corner workshop! Open Lab will feature the materials to make your own inspiring Steampunk gear.
+- June 12th, 2016 Biospheres: This is the best time of year to learn about and make tiny ecosystems that take care of themselves. Some of ours have been going for almost 4 years!
+- June 19th, 2016 (Father's Day): Let's make a custom lasercut picture frame to celebrate the father, grandfather, or father figure in our lives!
+- June 26th, 2016: Robots.
+- July 3rd, 2016: NO OPEN LAB (Happy Independence day!)
+- July 10th, 2016: TBD
 
 ## Past Projects:
 - September 7th, 2014 - Micro Crossbows - design by [Sonic Dad](http://www.sonicdad.com/project-details/micro-crossbow/)
@@ -103,6 +96,23 @@ Join us Sunday, 2-5pm, for this awesome Open Lab!
 - December 13, 2015: Three hours of Code: Projects and Games that introduce and celebrate programming.
 - December 20th, 2015: Festival of Lights: Candle Making and Laser Cut Lanterns
 - December 27th, 2015: NO OPEN LAB, Happy Holidays!
+- January 3rd, 2016: Resolutions Open Lab! Learn a new skill or tool, get help planning a new project... we will show you the possibilities!
+- January 10th, 2016: Mouse Trap Race Cars and Derby!
+- January 17th, 2016: Laser cutting!
+- January 24th, 2016: We have gotten a lot of requests for light sabers lately. The force is obviously strong with our young hackers! Let's do it. (Can't guarantee a spoiler free environment, but we'll try)
+- January 31st, 2016: Micro-Crossbows
+- February 7th, 2016: Cork Launchers and Mechanical Hands
+- February 14th, 2016: Victorian Valentines, Hat making, Steampunk Goggles
+- February 21st, 2016: Kids Choice! Although, at our Lab it's always kids choice!
+- February 28th, 2016: Pixels! Come dive into 3 projects that illustrate the beauty, function, and mathematics of pixels!
+- March 6th, 2016: Celebrate National Frozen Food Day with liquid nitrogen experiments and ice cream!
+- March 13th, 2016: Pi Day! One day early, but worth a fun day of projects based on the mathematical constant!
+- March 20th, 2016: Celebrate the arrival of Spring with us! Color eggs with natural dyes, create designs for the Eggbot, lasercut chocolate, and needlefelt wool bunnies and chicks (or whatever inspires you!)
+- March 27th, 2016: No Open Lab
+- April 3rd, 2016: Build an Automata!
+- April 10th, 2016: Window Bird Feeders 
+- April 17th, 2016: Tiny Matrix: Learn mathematical conversion to code and create your own images on an LED pendant!
+- April 24th, 2016: It's warming up! Outdoor toys: Make Hoola Hoops, Balance Boards, Croquet- what do you want to play?!
 
 
 <div style="width: 70%; margin:0 auto;">
