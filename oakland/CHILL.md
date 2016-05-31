@@ -52,26 +52,26 @@ Mentors are an essential part of this collaborative environment, and the kids ar
 
 ##### What the CHILL kids want to you know:
 
-* “I wanted to join this new program because it’s like homeschooling and school but not, with the benefits of both. I get to hang out with friends and go to cool places. I want to learn about the things I’m into but also learn about the things my friends are interested in too. I already take a cool video game design class at the Lab and it’s cool; I want boatloads more of that.” *
+* “I wanted to join this new program because it’s like homeschooling and school but not, with the benefits of both. I get to hang out with friends and go to cool places. I want to learn about the things I’m into but also learn about the things my friends are interested in too. I already take a cool video game design class at the Lab and it’s cool; I want boatloads more of that.” 
 
-* “I'm excited that I can be with friends learning about things I'd never even heard of before I heard about this program. I'm also excited that I'm going to learn how to learn about things I want to explore." *  
+* “I'm excited that I can be with friends learning about things I'd never even heard of before I heard about this program. I'm also excited that I'm going to learn how to learn about things I want to explore."  
 
-* "I am excited about this creation because it gives me a fresh start. I just love the idea of having a place to learn with my friends, a place where I can be myself." *    
+* "I am excited about this creation because it gives me a fresh start. I just love the idea of having a place to learn with my friends, a place where I can be myself."     
 
-* "CHILL is open and free. I get to be myself." *
+* "CHILL is open and free. I get to be myself." 
 
-* "You get to make awesome stuff." *
+* "You get to make awesome stuff." 
 
-* "This is a place of spontaneity. And friendship." *
+* "This is a place of spontaneity. And friendship." 
 
-* "I love that anything is possible here. It's pretty free and you can hang out with friends or learn new things or  go to new places." *
+* "I love that anything is possible here. It's pretty free and you can hang out with friends or learn new things or  go to new places." 
 
-* "It's amazing. *
+* "It's amazing. 
 
-* "At CHILL you can learn to make anything you want and follow your dreams." *
+* "At CHILL you can learn to make anything you want and follow your dreams." 
 
-* "I want to live here." *
+* "I want to live here." 
 
-* "I love how we get to learn the things we are interested in, but our mentors also bring in new ideas all the time. I also love working on our theme. We learn so much about different subjects just by researching the things we are really into." *
+* "I love how we get to learn the things we are interested in, but our mentors also bring in new ideas all the time. I also love working on our theme. We learn so much about different subjects just by researching the things we are really into." 
 
-* "At CHILL we make and hack, but we also travel and help others and write and sing. We play games and hang out. We meet cool people. We learn and we play." *
+* "At CHILL we make and hack, but we also travel and help others and write and sing. We play games and hang out. We meet cool people. We learn and we play." 
