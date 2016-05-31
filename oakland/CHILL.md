@@ -11,6 +11,7 @@ What if the hackerspace and mentors were accessible all the time so that a space
 This January, we started a part time homeschooling program in our Oakland location to support the ideas of self direction and self governance. Initially, we focused on middle school to early high school age kids who could commit to 2-3 days a week, and this fall we will be adding the opportunity for younger kids to participate. We will be continuing to expand the program as our community needs.
 
 Fall 2016:
+
 Ages 11 and up
 Monday, Tuesday, and/or Wednesday 10am-4pm
 2 or 3 day option
@@ -49,10 +50,28 @@ We are offering two options this spring: a 2 day and a 3 day program. We underst
 ##### Who are the mentors?
 Mentors are an essential part of this collaborative environment, and the kids are heavily involved in choosing who they work with. Mentorship is more than teaching, it's a relationship. We are interested in educators who are ready and willing to use making as a catalyst to child centered learning and familiar (or willing to become so) with Unschooling, Agile Learning, Free Schools, and the Alternative Education movement. We look for candidates who are deeply interested in developmental and constructivist pedagogy, and who genuinely enjoy working with middle and high school age youth. We also look for mentors who have an interesting skill set to bring to CHILL, as well as the motivation for life long learning. Initially, the kids learned all about resumes and met several candidates to choose their first mentor to join our ED in the CHILL community. Recently, they interviewed and chose a second mentor for the fall. In addition, other CH mentors come in throughout the week to offer their unique skill sets. Finally, we develop and call upon our relationships in the larger local and global communities to bring in guest mentors who can share their expertise with us.
 
-##### What the kids are already saying:
+##### What the CHILL kids want to you know:
 
 * “I wanted to join this new program because it’s like homeschooling and school but not, with the benefits of both. I get to hang out with friends and go to cool places. I want to learn about the things I’m into but also learn about the things my friends are interested in too. I already take a cool video game design class at the Lab and it’s cool; I want boatloads more of that.”*
 
 * “I'm excited that I can be with friends learning about things I'd never even heard of before I heard about this program. I'm also excited that I'm going to learn how to learn about things I want to explore."*  
 
 * "I am excited about this creation because it gives me a fresh start. I just love the idea of having a place to learn with my friends, a place where I can be myself."*    
+
+* "CHILL is open and free. I get to be myself."*
+
+* "You get to make awesome stuff."*
+
+* "This is a place of spontaneity. And friendship."*
+
+* "I love that anything is possible here. It's pretty free and you can hang out with friends or learn new things or  go to new places."*
+
+* "It's amazing.*
+
+* "At CHILL you can learn to make anything you want and follow your dreams."*
+
+* "I want to live here."*
+
+* "I love how we get to learn the things we are interested in, but our mentors also bring in new ideas all the time. I also love working on our theme. We learn so much about different subjects just by researching the things we are really into."*
+
+* "At CHILL we make and hack, but we also travel and help others and write and sing. We play games and hang out. We meet cool people. We learn and we play."*
