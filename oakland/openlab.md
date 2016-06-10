@@ -26,7 +26,7 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 - June 5th, 2016 Come check out our CHILL program's Steampunk exhibit in the corner workshop! Open Lab will feature the materials to make your own inspiring Steampunk gear.
 - June 12th, 2016 Biospheres: This is the best time of year to learn about and make tiny ecosystems that take care of themselves. Some of ours have been going for almost 4 years!
 - June 19th, 2016 (Father's Day): Let's make a custom lasercut picture frame to celebrate the father, grandfather, or father figure in our lives!
-- June 26th, 2016: Robots.
+- June 26th, 2016: HEBOCON! Design, build, and sumo fight silly robots!
 - July 3rd, 2016: NO OPEN LAB (Happy Independence day!)
 - July 10th, 2016: TBD
 
