@@ -350,5 +350,26 @@
             }
         ],
         "title": "Printmaking Workshops"
+    },
+    {
+        "approval": "",
+        "classid": "openlab",
+        "description": "Family Hackerspace time with rotating featured projects. <a href='http://www.curiosityhacked.org/oakland/openlab.html'>Details</a>",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "All ages, parent participation",
+                "cost": "15",
+                "dates": "Sundays",
+                "dayofweek": "Sunday",
+                "end": "17:00",
+                "maxseats": "18",
+                "paypaltag": "KKWUWZU7XUM64",
+                "sessionid": "openlab-1",
+                "start": "14:00",
+                "status": "Drop-In ($10-$20)"
+            }
+        ],
+        "title": "Open Lab"
     }
 ]
