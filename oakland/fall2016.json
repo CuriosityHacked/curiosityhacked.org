@@ -1,0 +1,351 @@
+[
+    {
+        "approval": "",
+        "classid": "chillo",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group<p><a href='oakland/CHILL'>Learn more about CHILL</a><p>CHILL billing is recurring.",
+        "reoccurring": "yes",
+        "sessions": [
+            {
+                "ages": "11+",
+                "cost": "575",
+                "dates": "Monthly, 3 days a week",
+                "dayofweek": "Monday",
+                "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "SSRDUVXQ6Z3DE",
+                "sessionid": "chillo3day",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "11+",
+                "cost": "395",
+                "dates": "Monthly, 2 days a week",
+                "dayofweek": "Tuesday",
+                "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "9KFKPUD4YMWCC",
+                "sessionid": "chillo2day",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "CHILL (Curiosity Hacked Independent Learning Lab)"
+    },
+    {
+        "approval": "",
+        "classid": "chilly",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Younger Group<p><a href='oakland/CHILL'>Learn more about CHILL</a><p>CHILL billing is recurring.",
+        "reoccurring": "yes",
+        "sessions": [
+            {
+                "ages": "7+",
+                "cost": "320",
+                "dates": "Monthly, 2 days a week",
+                "dayofweek": "Thursday",
+                "dowtext": "Thursdays and Friday, 10 - 2",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "9345Z2ZHC82TN",
+                "sessionid": "chilly2day",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "7+",
+                "cost": "160",
+                "dates": "Monthly, 1 day a week",
+                "dayofweek": "Friday",
+                "dowtext": "Thursday or Friday, 10 - 2",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "F6G33BVYBM6ZY",
+                "sessionid": "chilly1day",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "CHILL (Curiosity Hacked Independent Learning Lab)"
+    },
+    {
+        "approval": "",
+        "classid": "gamedesign",
+        "description": "In this class, we'll be learning about games (as art, entertainment, and tools) and then using our knowledge and our imaginations to make a digital, physical, or hybrid/experimental game using any of the materials available to us at Curiosity Hacked. Minecraft, RPG’s, board games and more will be covered and explored. By the end of the course, students will have games to take home, critiquing skills, and a fresh perspective on the creative potential of games as a medium!",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "7+",
+                "cost": "325",
+                "dates": "Sept 8 - Dec 1 (No class 11/21-11/25)",
+                "dayofweek": "Thursday",
+                "end": "16:30",
+                "maxseats": "18",
+                "paypaltag": "VTJEFNH28WWKL",
+                "sessionid": "gamedesign-1",
+                "start": "14:30",
+                "status": ""
+            },
+            {
+                "ages": "7+",
+                "cost": "325",
+                "dates": "Sept 9 - Dec 2 (No class 11/21-11/25)",
+                "dayofweek": "Friday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "AY4QB3KKPBQQ4",
+                "sessionid": "gamedesign-2",
+                "start": "16:00",
+                "status": ""
+            }
+        ],
+        "title": "Game Design"
+    },
+    {
+        "approval": "",
+        "classid": "mth",
+        "description": "Join us for an immersion of history, seen through the art, innovation, and inventions of the Renaissance. Starting with Shakespeare’s England and Italy’s Masters  and working our way to the Restoration, we will research, explore, recreate, build, and appreciate Renaissance technology and aesthetics, while connecting early modern design and ingenuity to modern day influence and function. We will use quality materials and traditional techniques to explore the ways cultures all over the world expressed and advanced themselves in the Renaissance. A list of optional support resources will also be provided.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "7+",
+                "cost": "395",
+                "dates": "Sept 16 - Nov 18",
+                "dayofweek": "Friday",
+                "end": "15:00",
+                "maxseats": "18",
+                "paypaltag": "KKWUWZU7XUM64",
+                "sessionid": "mth-1",
+                "start": "13:00",
+                "status": ""
+            }
+        ],
+        "title": "Making Through History: Renaissance"
+    },
+    {
+        "approval": "",
+        "classid": "hackwarts",
+        "description": "First started as our popular summer camp, now a class of it’s very own! Join us for an interdisciplinary journey of magic and making, where we will weave science, art, technology, literature, mythology, and skill building through projects inspired by the beloved Harry Potter series. This session will focus on the first book, The Sorcerer's Stone, which will guide our literary discussions. Wand making, potions, magical creatures, herbology, charms, quidditch and more- all from the magical maker perspective! Other optional support resources will be provided.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "7+",
+                "cost": "395",
+                "dates": "Sept 16 - Nov 18",
+                "dayofweek": "Friday",
+                "end": "12:30",
+                "maxseats": "18",
+                "paypaltag": "YTYRFJ7XNBYRL",
+                "sessionid": "hackwarts-1",
+                "start": "10:30",
+                "status": ""
+            }
+        ],
+        "title": "Hackwarts School of Magic and Making"
+    },
+    {
+        "approval": "",
+        "classid": "www",
+        "description": "Back by popular demand! In this workshop, we will be crafting wooden weapons using everything from simple carving knives to power tools to our laser cutter. With knives we can create spears, atlatls, darts, throwing stars, and simple but effective traps and snares. Power tools offer us the ability to create wooden swords, axes, and shields. They aren't always pretty, but they are sturdy and fierce! The laser cutter utilizes more delicate wood, but allows for the creation of complex and fantastical weapon designs limited only by our imaginations. Children will also have the option to decorate and accessorize their weapons with paint, foam, leather, and more. ",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "6+",
+                "cost": "350",
+                "dates": "Sept 6 - Nov 29 (No class 11/21-11/25)",
+                "dayofweek": "Tuesday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "DH5PNQ3W7X2KJ",
+                "sessionid": "www-1",
+                "start": "16:00",
+                "status": ""
+            },
+            {
+                "ages": "6+",
+                "cost": "350",
+                "dates": "Sept 9 - Dec 2 (No class 11/21-11/25)",
+                "dayofweek": "Friday",
+                "end": "16:30",
+                "maxseats": "18",
+                "paypaltag": "9FVEKKRVRKTZA",
+                "sessionid": "www-2",
+                "start": "14:30",
+                "status": ""
+            }
+        ],
+        "title": "Wooden Weapon Workshop - Crafting With Stone Age, Industrial Age, and Space Age Technology"
+    },
+    {
+        "approval": "",
+        "classid": "designbuild",
+        "description": "Design thinking, skill building and individual goals while building relationships within a community! This session will be focused building knowledge and imaginations around real, relevant concepts and skills such as woodworking, robotics, printmaking, circuits, textiles, reuse, lasercutting, 3D printing, programming and more. The class will dive deep into mentoring the kids in the areas of making that interest them most, resulting in projects of their own vision. This makes each session useful and accessible to every child, while also being different and customized to every group.",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "Sparks (ages 4-7)",
+                "cost": "275",
+                "dates": "Sept 12 - Dec 5 (No class 11/21-11/25)",
+                "dayofweek": "Monday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "U5FJXQ8AABYCA",
+                "sessionid": "designbuild-1",
+                "start": "16:00",
+                "status": ""
+            },
+            {
+                "ages": "Guild (ages 8+)",
+                "cost": "300",
+                "dates": "Sept 12 - Dec 5 (No class 11/21-11/25)",
+                "dayofweek": "Monday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "QDSM72M9EG96Q",
+                "sessionid": "designbuild-2",
+                "start": "16:00",
+                "status": ""
+            },
+            {
+                "ages": "Guild (ages 8+)",
+                "cost": "300",
+                "dates": "Sept 14 - Dec 7 (No class 11/21-11/25)",
+                "dayofweek": "Wednesday",
+                "end": "18:00",
+                "maxseats": "18",
+                "paypaltag": "3H97VM6LN7H8N",
+                "sessionid": "designbuild-3",
+                "start": "16:00",
+                "status": ""
+            }
+        ],
+        "title": "Design + Build"
+    },
+    {
+        "approval": "",
+        "classid": "lws",
+        "description": "Every first Saturday of the month! Take one or take them all! Learn how to import images or create your own, convert your art, and cut them on wood, acrylic, chocolate or felt. All levels. Grown-ups welcome!",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Sept 3",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, Sept 3rd",
+                "end": "13:00",
+                "maxseats": "18",
+                "paypaltag": "LXMPMJT72G65W",
+                "sessionid": "lws-1",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Oct 1",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, Oct 1st",
+                "end": "13:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "MY5UWQM4B5NZY",
+                "sessionid": "lws-2",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Nov 5",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, Nov 5th",
+                "end": "13:00",
+                "maxseats": "18",
+                "paypaltag": "LXMPMJT72G65W",
+                "sessionid": "lws-3",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Dec 3",
+                "dayofweek": "Saturday",
+                "dowtext": "Saturday, Dec 3rd",
+                "end": "13:00",
+                "maxseats": "18",
+                "paypaltag": "LXMPMJT72G65W",
+                "sessionid": "lws-4",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "Lasercutting Workshops"
+    },
+    {
+        "approval": "",
+        "classid": "printws",
+        "description": "Every 3rd Saturday of the month, learn a new printmaking technique! All levels. Grown-ups welcome!",
+        "reoccurring": "",
+        "sessions": [
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Sept 17",
+                "dayofweek": "Saturday",
+                "dowtext": "Monoprint: Saturday, September 17th",
+                "end": "13:00",
+                "maxseats": "18",
+                "paypaltag": "5RGZGSPY8UDKY",
+                "sessionid": "printws-1",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Oct 15",
+                "dayofweek": "Saturday",
+                "dowtext": "Linocut: Saturday, October 15th",
+                "end": "13:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "NN3PVMWGLR4E4",
+                "sessionid": "printws-2",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Nov 19",
+                "dayofweek": "Saturday",
+                "dowtext": "Silkscreen: Saturday, November 19th",
+                "end": "13:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "NN3PVMWGLR4E4",
+                "sessionid": "printws-3",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "Kids under 9 will need an accompanying adult, 9 and up can attend alone or with adult.",
+                "cost": "75",
+                "dates": "Dec 17",
+                "dayofweek": "Saturday",
+                "dowtext": "Stone Lithography: Saturday, December 17th",
+                "end": "13:00",
+                "maxseats": "18",
+                "nocal": "yes",
+                "paypaltag": "NN3PVMWGLR4E4",
+                "sessionid": "printws-4",
+                "start": "10:00",
+                "status": ""
+            }
+        ],
+        "title": "Printmaking Workshops"
+    }
+]
