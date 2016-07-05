@@ -40,7 +40,7 @@ var ws;
                $('#classsel').append('<br><h4>Which day?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Thursday" required="" aria-required="true">Thursday<br><input type="radio" name="days" value="Friday" required="" aria-required="true">Friday</form>');
            }
            if (v1.sessionid == 'chillo2day') {
-               $('#classsel').append('<br><h4>Which days?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Monday Tuesday" required="" aria-required="true">Monday and Tuesday<br><input type="radio" name="days" value="Monday Wednesday" required="" aria-required="true">Monday and Wednesday<br><input type="radio" name="days" value="Tuesday Wednesday" required="" aria-required="true">Tuesday and Wednesday</form>');
+               $('#classsel').append('<br><h4>Which days?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Monday.Tuesday" required="" aria-required="true">Monday and Tuesday<br><input type="radio" name="days" value="Monday.Wednesday" required="" aria-required="true">Monday and Wednesday<br><input type="radio" name="days" value="Tuesday.Wednesday" required="" aria-required="true">Tuesday and Wednesday</form>');
            }
          }
        })
@@ -191,13 +191,6 @@ var ws;
         };
      })
      if ( missingval ) { return false; }
-     if ( session.sessionid == "chilly1day" || session.sessionid == "chillo2day" ) {
-         if (typeof $('#extrainfo [name="days"]:checked').val() == 'undefined') {
-            gotoBlink('days');
-            missingval = true;
-         }
-         if ( missingval ) { return false; }         
-     }
      if (typeof $('#registrationform [name="entry.1198401305"]:checked').val() == 'undefined') {
         gotoBlink('entry.1198401305');
         missingval = true;
@@ -208,6 +201,14 @@ var ws;
         missingval = true;
      }
      if ( missingval ) { return false; }
+     if ( session.sessionid == "chilly1day" || session.sessionid == "chillo2day" ) {
+         if (typeof $('#extrainfo [name="days"]:checked').val() == 'undefined') {
+            gotoBlink('days');
+            missingval = true;
+         }
+         if ( missingval ) { return false; }
+         $('#entry_1993237748').val(session.sessionid+"_"+$('#extrainfo [name="days"]:checked').val());
+     }
      event.preventDefault();
      $("#formresult").html("<h1>Submitting</h1>");
      $.post( "http://steam.curiosityhacked.org/cgi-bin/registration.py", $( "#registrationform" ).serialize() )
