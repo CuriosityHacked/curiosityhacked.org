@@ -2,8 +2,9 @@
     {
         "approval": "",
         "classid": "chillo",
-        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group<p><a href='oakland/CHILL'>Learn more about CHILL</a><p>CHILL billing is recurring.",
-        "reoccurring": "yes",
+        "description": "CHILL (Curiosity Hacked Independent Learning Lab) Older Group<p><a href='oakland/CHILL'>Learn more about CHILL</a>",
+        "reoccurring": "no",
+        "paymentmemo": "Payment link will take a $75 non-refundable deposit and ongoing payments will be invoiced. Deposit will be refuded on reciept of charter funds.",
         "sessions": [
             {
                 "ages": "11+",
@@ -13,7 +14,7 @@
                 "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
                 "end": "16:00",
                 "maxseats": "18",
-                "paypaltag": "SSRDUVXQ6Z3DE",
+                "paypaltag": "YPAJAD4WFMMC8",
                 "sessionid": "chillo3day",
                 "start": "10:00",
                 "status": ""
@@ -27,8 +28,8 @@
                 "nolist": "yes",
                 "end": "16:00",
                 "maxseats": "18",
-                "paypaltag": "SSRDUVXQ6Z3DE",
-                "sessionid": "chillo3day",
+                "paypaltag": "YPAJAD4WFMMC8",
+                "sessionid": "chillo3day-2",
                 "start": "10:00",
                 "status": ""
             },
@@ -40,7 +41,7 @@
                 "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
                 "end": "16:00",
                 "maxseats": "18",
-                "paypaltag": "9KFKPUD4YMWCC",
+                "paypaltag": "YPAJAD4WFMMC8",
                 "sessionid": "chillo2day",
                 "start": "10:00",
                 "status": ""
@@ -62,7 +63,7 @@
                 "dowtext": "Thursdays and Friday, 10 - 2",
                 "end": "16:00",
                 "maxseats": "18",
-                "paypaltag": "9345Z2ZHC82TN",
+                "paypaltag": "YPAJAD4WFMMC8",
                 "sessionid": "chilly2day",
                 "start": "10:00",
                 "status": ""
@@ -75,7 +76,7 @@
                 "dowtext": "Thursday or Friday, 10 - 2",
                 "end": "16:00",
                 "maxseats": "18",
-                "paypaltag": "F6G33BVYBM6ZY",
+                "paypaltag": "YPAJAD4WFMMC8",
                 "sessionid": "chilly1day",
                 "start": "10:00",
                 "status": ""
@@ -96,7 +97,7 @@
                 "dayofweek": "Thursday",
                 "end": "16:30",
                 "maxseats": "18",
-                "paypaltag": "VTJEFNH28WWKL",
+                "paypaltag": "HK7SFCXMT6PN2",
                 "sessionid": "gamedesign-1",
                 "start": "14:30",
                 "status": ""
@@ -108,7 +109,7 @@
                 "dayofweek": "Friday",
                 "end": "18:00",
                 "maxseats": "18",
-                "paypaltag": "AY4QB3KKPBQQ4",
+                "paypaltag": "BM297ZJ94BF8N",
                 "sessionid": "gamedesign-2",
                 "start": "16:00",
                 "status": ""
@@ -129,7 +130,7 @@
                 "dayofweek": "Friday",
                 "end": "15:00",
                 "maxseats": "18",
-                "paypaltag": "KKWUWZU7XUM64",
+                "paypaltag": "L54AN2GHAFXF6",
                 "sessionid": "mth-1",
                 "start": "13:00",
                 "status": ""
@@ -150,7 +151,7 @@
                 "dayofweek": "Friday",
                 "end": "12:30",
                 "maxseats": "18",
-                "paypaltag": "YTYRFJ7XNBYRL",
+                "paypaltag": "M9W5J9D35VDHY",
                 "sessionid": "hackwarts-1",
                 "start": "10:30",
                 "status": ""
@@ -171,7 +172,7 @@
                 "dayofweek": "Tuesday",
                 "end": "18:00",
                 "maxseats": "18",
-                "paypaltag": "DH5PNQ3W7X2KJ",
+                "paypaltag": "NUJL4SW2PQ8FW",
                 "sessionid": "www-1",
                 "start": "16:00",
                 "status": ""
@@ -183,7 +184,7 @@
                 "dayofweek": "Friday",
                 "end": "16:30",
                 "maxseats": "18",
-                "paypaltag": "9FVEKKRVRKTZA",
+                "paypaltag": "TFGCP66CQ8KLA",
                 "sessionid": "www-2",
                 "start": "14:30",
                 "status": ""
@@ -204,7 +205,7 @@
                 "dayofweek": "Monday",
                 "end": "18:00",
                 "maxseats": "18",
-                "paypaltag": "U5FJXQ8AABYCA",
+                "paypaltag": "QZ9ZEY7RHVPVS",
                 "sessionid": "designbuild-1",
                 "start": "16:00",
                 "status": ""
@@ -217,7 +218,7 @@
                 "end": "18:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "QDSM72M9EG96Q",
+                "paypaltag": "FPD7NHLMVHHU4",
                 "sessionid": "designbuild-2",
                 "start": "16:00",
                 "status": ""
@@ -229,7 +230,7 @@
                 "dayofweek": "Wednesday",
                 "end": "18:00",
                 "maxseats": "18",
-                "paypaltag": "3H97VM6LN7H8N",
+                "paypaltag": "WPM33DFD554R4",
                 "sessionid": "designbuild-3",
                 "start": "16:00",
                 "status": ""
@@ -279,7 +280,7 @@
                 "end": "13:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "LXMPMJT72G65W",
+                "paypaltag": "PNRGKJEJNESEC",
                 "sessionid": "lws-3",
                 "start": "10:00",
                 "status": ""
@@ -293,7 +294,7 @@
                 "end": "13:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "LXMPMJT72G65W",
+                "paypaltag": "QWXBZF6M9MLVU",
                 "sessionid": "lws-4",
                 "start": "10:00",
                 "status": ""
@@ -315,7 +316,7 @@
                 "dowtext": "Monoprint: Saturday, September 17th",
                 "end": "13:00",
                 "maxseats": "18",
-                "paypaltag": "5RGZGSPY8UDKY",
+                "paypaltag": "NBBBQK2JAY8AC",
                 "sessionid": "printws-1",
                 "start": "10:00",
                 "status": ""
@@ -329,7 +330,7 @@
                 "end": "13:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "NN3PVMWGLR4E4",
+                "paypaltag": "PMCU83M6TSDDW",
                 "sessionid": "printws-2",
                 "start": "10:00",
                 "status": ""
@@ -343,7 +344,7 @@
                 "end": "13:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "NN3PVMWGLR4E4",
+                "paypaltag": "X7TWXSEQXSQQE",
                 "sessionid": "printws-3",
                 "start": "10:00",
                 "status": ""
@@ -357,7 +358,7 @@
                 "end": "13:00",
                 "maxseats": "18",
                 "nocal": "yes",
-                "paypaltag": "NN3PVMWGLR4E4",
+                "paypaltag": "RM9HPEU2R2VGQ",
                 "sessionid": "printws-4",
                 "start": "10:00",
                 "status": ""
