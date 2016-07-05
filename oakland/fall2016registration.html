@@ -37,10 +37,10 @@ var ws;
            $('#classsel').append('<h4>Registering for: </h4><label class="ss-q-item-label">'+ws.title+'</label>' );
            paypal = session.paypaltag;
            if (v1.sessionid == 'chilly1day') {
-               $('#classsel').append('<br><h4>Which day?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Thursday">Thursday<br><input type="radio" name="days" value="Friday">Friday</form>');
+               $('#classsel').append('<br><h4>Which day?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Thursday" required="" aria-required="true">Thursday<br><input type="radio" name="days" value="Friday" required="" aria-required="true">Friday</form>');
            }
            if (v1.sessionid == 'chillo2day') {
-               $('#classsel').append('<br><h4>Which days?</h4><form action="javascript:return false;" id="extrainfo"><input type="checkbox" name="days" value="Monday">Monday<br><input type="checkbox" name="days" value="Tuesday">Tuesday<br><input type="checkbox" name="days" value="Wednesday">Wednesday</form>');
+               $('#classsel').append('<br><h4>Which days?</h4><form action="javascript:return false;" id="extrainfo"><input type="radio" name="days" value="Monday Tuesday" required="" aria-required="true">Monday and Tuesday<br><input type="radio" name="days" value="Monday Wednesday" required="" aria-required="true">Monday and Wednesday<br><input type="radio" name="days" value="Tuesday Wednesday" required="" aria-required="true">Tuesday and Wednesday</form>');
            }
          }
        })
@@ -181,7 +181,7 @@ var ws;
  $("#registrationform").submit(function( event ) {
     $('#formresult').empty();
     $('#entry_1993237748').val(session.sessionid);
-    $('#entry_1415844574').val( "spring"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
+    $('#entry_1415844574').val( "fall"+((new Date).getTime()).toString()+'.'+Math.floor((Math.random() * 1000) + 1).toString() );
     var missingval = false;
     $.each($('#registrationform [required][type!=checkbox][type!=radio]').serializeArray(),function(i,v){
         if (v['value'] == ""){
@@ -191,6 +191,13 @@ var ws;
         };
      })
      if ( missingval ) { return false; }
+     if ( session.sessionid == "chilly1day" || session.sessionid == "chillo2day" ) {
+         if (typeof $('#extrainfo [name="days"]:checked').val() == 'undefined') {
+            gotoBlink('days');
+            missingval = true;
+         }
+         if ( missingval ) { return false; }         
+     }
      if (typeof $('#registrationform [name="entry.1198401305"]:checked').val() == 'undefined') {
         gotoBlink('entry.1198401305');
         missingval = true;
