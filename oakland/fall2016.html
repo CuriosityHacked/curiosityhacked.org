@@ -106,25 +106,27 @@ layout: default
             </p>
             <h5>Sessions</h5>
             <% _.each(_.sortBy(c.sessions, ['dayofweek']), function(session) { %>
-              <div class='session buttonsmall <%= session.status == "" ? "ltblue" : "disabled" %>' id='<%= session.sessionid %>'>
-                <div class='session-title'>
-                  <% if (session.dowtext) { %>
-                  <%= session.dowtext %>
-                  <% } else { %>
-                  <%= session.dayofweek %>s <%= session.time %>
-                  <% } %>
-                </div>
-                <div class='session-details'>
-                  <ul>
-                    <li><%= session.dates %></li>
-                    <li>Ages <%= session.ages %></li>
-                    <% if (session.status) { %>
-                      <li class='status'><%= session.status %></li>
-                    <% } else { %>
-                      <li>$<%= session.cost %></li>
-                    <% } %>
-                </div>
-              </div>
+                <% if (!session.nolist) { %>
+                  <div class='session buttonsmall <%= session.status == "" ? "ltblue" : "disabled" %>' id='<%= session.sessionid %>'>
+                    <div class='session-title'>
+                      <% if (session.dowtext) { %>
+                      <%= session.dowtext %>
+                      <% } else { %>
+                      <%= session.dayofweek %>s <%= session.time %>
+                      <% } %>
+                    </div>
+                    <div class='session-details'>
+                      <ul>
+                        <li><%= session.dates %></li>
+                        <li>Ages <%= session.ages %></li>
+                        <% if (session.status) { %>
+                          <li class='status'><%= session.status %></li>
+                        <% } else { %>
+                          <li>$<%= session.cost %></li>
+                        <% } %>
+                    </div>
+                  </div>
+              <% } %>
             <%})%>
           </article>
         <% } %>

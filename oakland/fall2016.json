@@ -20,6 +20,20 @@
             },
             {
                 "ages": "11+",
+                "cost": "575",
+                "dates": "Monthly, 3 days a week",
+                "dayofweek": "Wednesday",
+                "dowtext": "Mondays, Tuesdays, Wednesdays, 10 - 4",
+                "nolist": "yes",
+                "end": "16:00",
+                "maxseats": "18",
+                "paypaltag": "SSRDUVXQ6Z3DE",
+                "sessionid": "chillo3day",
+                "start": "10:00",
+                "status": ""
+            },
+            {
+                "ages": "11+",
                 "cost": "395",
                 "dates": "Monthly, 2 days a week",
                 "dayofweek": "Tuesday",
