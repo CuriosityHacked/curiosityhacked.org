@@ -29,10 +29,10 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 - July 17th, 2016: Pokemon Hacked! A curated selection of crafts to celebrate our Pokemon Gym status!
 - July 24th, 2016:Felt Magnets
 - July 31st, 2016: Wooden Weaponry (sample of our class in the fall)
-- August 7th, 2016: Lockpicking
+- August 7th, 2016: Lockpicking- Learn how + make your own set of lockpicking tools!
 - August 14th, 2016: Hydraulic Machines
-- August 21st, 2016: TBD
-- August 28th, 2016: TBD
+- August 21st, 2016: E-Textiles- make lovely lit-up accessories!
+- August 28th, 2016: Soldering 101- Learn how, or level up your skills!
 - September 4th, 2016: NO OPEN LAB 
 
 ## Past Projects:
