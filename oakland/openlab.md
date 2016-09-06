@@ -20,20 +20,17 @@ Oakland, CA 94609
 Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $5-$15 depending on the project.
 
 
-- June 5th, 2016 Come check out our CHILL program's Steampunk exhibit in the corner workshop! Open Lab will feature the materials to make your own inspiring Steampunk gear.
-- June 12th, 2016 Biospheres: This is the best time of year to learn about and make tiny ecosystems that take care of themselves. Some of ours have been going for almost 4 years!
-- June 19th, 2016 (Father's Day): Let's make a custom lasercut picture frame to celebrate the father, grandfather, or father figure in our lives!
-- June 26th, 2016: HEBOCON! Design, build, and sumo fight silly robots!
-- July 3rd, 2016: NO OPEN LAB (Happy Independence day!)
-- July 10th, 2016: Sam's Choice! Light Sabers, Screenprints, and lawn flamingo hacks
-- July 17th, 2016: Pokemon Hacked! A curated selection of crafts to celebrate our Pokemon Gym status!
-- July 24th, 2016:Felt Magnets
-- July 31st, 2016: Wooden Weaponry (sample of our class in the fall)
-- August 7th, 2016: Lockpicking- Learn how + make your own set of lockpicking tools!
-- August 14th, 2016: Hydraulic Machines
-- August 21st, 2016: E-Textiles- make lovely lit-up accessories!
-- August 28th, 2016: Soldering 101- Learn how, or level up your skills!
+
 - September 4th, 2016: NO OPEN LAB 
+- September 11th, 2016: Cardboard Build: Small Brush Bot Habitats to large kid sized creations!
+- September 18th, 2016: Make your own Leaf & Flower Press, just in time to preserve the last bit of seasonal color!
+- September 25th, 2016: Dragon Lore: Dragon Eggs, Wings, and Garden Dragons
+- October 2nd, 2016: Lasercut Lanterns
+- October 9th, 2016: Spider Lore: Weaving, Webmaking, Spider Web Garden Frames
+- October 16th, 2016: Since daylight is shrinking as we head towards winter, let's do some projects that shrink too! Nesting Dolls, Shrinky Dink Jewelry, and Shrunken Heads (to be ready for Halloween)!
+- October 23rd, 2016: NO OPEN LAB! Come see us at the East Bay Mini Maker Faire!
+- October 30th, 2016: Snap O Lanterns, Last Minute Halloween Prep (Accessories, Lighted Masks, etc)
+- OCTOBER 28-30th: HACKER HAUNTED HOUSE! Come see our kid designed, built, and staffed house of hacker horror! Also fun games and projects! More info and tickets coming soon!
 
 ## Past Projects:
 - September 7th, 2014 - Micro Crossbows - design by [Sonic Dad](http://www.sonicdad.com/project-details/micro-crossbow/)
@@ -118,9 +115,22 @@ Join us Sunday, 2-5pm, for this awesome Open Lab!
 - April 10th, 2016: Window Bird Feeders 
 - April 17th, 2016: Tiny Matrix: Learn mathematical conversion to code and create your own images on an LED pendant!
 - April 24th, 2016: It's warming up! Outdoor toys: Make Hoola Hoops, Balance Boards, Croquet- what do you want to play?!
-- - May 15, 2016 NO OPEN LAB
+- May 15, 2016 NO OPEN LAB
 - May 20-22, 2016 NO OPEN LAB: We will be at the Bay Area Maker Faire in San Mateo! Come check out our booth, and join ED Samantha Cook on the education stage (Sunday 3:30pm) as she and a panel of teens discuss the experience of designing and facilitating a community maker free school.
 - May 29th, 2016 NO OPEN LAB
+- June 5th, 2016 Come check out our CHILL program's Steampunk exhibit in the corner workshop! Open Lab will feature the materials to make your own inspiring Steampunk gear.
+- June 12th, 2016 Biospheres: This is the best time of year to learn about and make tiny ecosystems that take care of themselves. Some of ours have been going for almost 4 years!
+- June 19th, 2016 (Father's Day): Let's make a custom lasercut picture frame to celebrate the father, grandfather, or father figure in our lives!
+- June 26th, 2016: HEBOCON! Design, build, and sumo fight silly robots!
+- July 3rd, 2016: NO OPEN LAB (Happy Independence day!)
+- July 10th, 2016: Sam's Choice! Light Sabers, Screenprints, and lawn flamingo hacks
+- July 17th, 2016: Pokemon Hacked! A curated selection of crafts to celebrate our Pokemon Gym status!
+- July 24th, 2016:Felt Magnets
+- July 31st, 2016: Wooden Weaponry (sample of our class in the fall)
+- August 7th, 2016: Lockpicking- Learn how + make your own set of lockpicking tools!
+- August 14th, 2016: Hydraulic Machines
+- August 21st, 2016: E-Textiles- make lovely lit-up accessories!
+- August 28th, 2016: Soldering 101- Learn how, or level up your skills!
 
 
 <div style="width: 70%; margin:0 auto;">
