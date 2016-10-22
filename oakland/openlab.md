@@ -17,16 +17,19 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 
 
 
-- September 4th, 2016: NO OPEN LAB 
-- September 11th, 2016: Cardboard Build: Small Brush Bot Habitats to large kid sized creations!
-- September 18th, 2016: Make your own Leaf & Flower Press, just in time to preserve the last bit of seasonal color!
-- September 25th, 2016: Dragon Lore: Dragon Eggs, Wings, and Garden Dragons
-- October 2nd, 2016: Lasercut Lanterns
-- October 9th, 2016: Spider Lore: Weaving, Webmaking, Spider Web Garden Frames
-- October 16th, 2016: Since daylight is shrinking as we head towards winter, let's do some projects that shrink too! Nesting Dolls, Shrinky Dink Jewelry, and Shrunken Heads (to be ready for Halloween)!
+
 - October 23rd, 2016: NO OPEN LAB! Come see us at the East Bay Mini Maker Faire!
 - October 30th, 2016: Snap O Lanterns, Last Minute Halloween Prep (Accessories, Lighted Masks, etc)
 - OCTOBER 28-30th: HACKER HAUNTED HOUSE! Come see our kid designed, built, and staffed house of hacker horror! Also fun games and projects! More info and tickets coming soon!
+- November 6th, 2016: Bows & Arrows
+- November 13th, 2016: Hebocon: Silly Robot Design and Battle!
+- November 20th, 2016: Day Of Service Project
+- November 27th, 2016: NO OPEN LAB
+- December 4th, 2016: DIY Custom Holiday Wreaths and Giant Snowflakes
+- December 11th, 2016: CHILL Fantasy & Magic Exhibition and Performance! Open to the Public! (NO OPEN LAB)
+- December 18th, 2016: Festival of Lights: LED Menorahs, Ornaments, Trees and Blowing Ships!
+- December 25th, 2016: NO OPEN LAB
+
 
 ## Past Projects:
 - September 7th, 2014 - Micro Crossbows - design by [Sonic Dad](http://www.sonicdad.com/project-details/micro-crossbow/)
@@ -127,6 +130,13 @@ Join us Sunday, 2-5pm, for this awesome Open Lab!
 - August 14th, 2016: Hydraulic Machines
 - August 21st, 2016: E-Textiles- make lovely lit-up accessories!
 - August 28th, 2016: Soldering 101- Learn how, or level up your skills!
+- September 4th, 2016: NO OPEN LAB 
+- September 11th, 2016: Cardboard Build: Small Brush Bot Habitats to large kid sized creations!
+- September 18th, 2016: Make your own Leaf & Flower Press, just in time to preserve the last bit of seasonal color!
+- September 25th, 2016: Dragon Lore: Dragon Eggs, Wings, and Garden Dragons
+- October 2nd, 2016: Lasercut Lanterns
+- October 9th, 2016: Spider Lore: Weaving, Webmaking, Spider Web Garden Frames
+- October 16th, 2016: Since daylight is shrinking as we head towards winter, let's do some projects that shrink too! Nesting Dolls, Shrinky Dink Jewelry, and Shrunken Heads (to be ready for Halloween)!
 
 
 <div style="width: 70%; margin:0 auto;">
