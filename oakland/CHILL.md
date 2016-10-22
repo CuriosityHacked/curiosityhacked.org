@@ -22,7 +22,7 @@ Thursday and/or Friday 10am-2pm
 
 Fall Theme: As voted on by the kids at CHILL, the Fall 2016 exhibition theme will be "Fantasy and Magic"
 
-<br><span class="date" style="display: inline;">Register: </span><span class='buttonsmall ltblue' onClick="window.location.assign('/oakland/spring');">Schedule</span>
+<br><span class="date" style="display: inline;">Register: </span><span class='buttonsmall ltblue' onClick="window.location.assign('/classes.html');">Schedule</span>
 
 
 
