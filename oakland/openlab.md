@@ -5,16 +5,12 @@ layout: default
 
 ## Thank you for your interest in the Curiosity Hacked Oakland Lab (CHOL).
 
-<img src="/media/10632620_897683933593731_8723575834852983001_n.jpg" height='350px' align='right'/>Our Oakland location serves as our headquarters as well as our test bed for many of our programs. Guilds currently run four nights a week and Open Labs occur ever Sunday from 2-5pm. Other classes and after school activites run as scheduled.
+<img src="/media/10632620_897683933593731_8723575834852983001_n.jpg" height='350px' align='right'/>Our Oakland Open Labs occur almost every Sunday from 2-5pm. Please see the schedule below for more details. Open Labs are all ages and are NOT a drop off program.
 
 Curiosity Hacked Oakland Lab:
 6036 Telegraph Avenue
 Oakland, CA 94609
 
-
-##### We are now hosting Birthday Parties! Email us for more on our individualized approach or to schedule!
-
-<em>If you're interested in using CHOL for your after-school group or science club, contact us at info@curiosityhacked.org</em>
 
 ### Upcoming 2016 Open Lab Featured Projects:
 Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $5-$15 depending on the project.
