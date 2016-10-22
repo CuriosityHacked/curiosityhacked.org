@@ -21,8 +21,7 @@ We always create a project designed specifically for and with the birthday kid! 
 
 ## Additional Information:
 
-Please make reservation at least one month in advance for better date availability.
-
+* Please make reservation at least one month in advance for better date availability.
 * Parents are invited and encouraged to stay and learn alongside their kids. At least two adults need to stay on site during the party, and additional parents will be needed if the majority of the kids at the party are under the age of 8.
 * All children ages 4 and up are counted as participants.
 * All adults and children in the Lab will be required to have a signed Liability Waiver to participate.
