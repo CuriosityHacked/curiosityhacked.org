@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 
-## Thank you for your interest in the Curiosity Hacked Oakland Lab (CHOL).
+## Thank you for your interest in the Curiosity Hacked Oakland Lab!
 
 <img src="/media/10632620_897683933593731_8723575834852983001_n.jpg" height='350px' align='right'/>Our Oakland Open Labs occur almost every Sunday from 2-5pm. Please see the schedule below for more details. Open Labs are all ages and are NOT a drop off program.
 
@@ -13,7 +13,7 @@ Oakland, CA 94609
 
 
 ### Upcoming 2016 Open Lab Featured Projects:
-Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $5-$15 depending on the project.
+Open Labs are all ages and a great way to get started! You can come for the featured project, use our available materials and tools to design your own project, or bring in a project you want to work on and/or need help with! Please note that Open Labs are subject to change when the kids inspire us to try something new. You can check back here for any changes we make prior to each Open Lab. Material fees for Open Lab run $10-$15 depending on the project.
 
 
 
