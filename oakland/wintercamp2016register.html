@@ -53,12 +53,18 @@ function updateClasssel()
 <div style="border:1">
 <form id="classselform" name="classselform">
 <label for='classsel'>Please verify the proper class is selected:</label>
-<select id='classsel' onchange='updateClasssel(this);'>
+<select id='classsel'>
 <option value="tdaycamp"> Electronic Galaxy Camp Nov 21-Nov 23</option>
+<option value="tdaycampA"> Electronic Galaxy Camp Nov 21-Nov 23 with after care</option>
 <option value="winter1"> Fantasy & Magic Camp Dec 19-23</option>
+<option value="winter1A"> Fantasy & Magic Camp Dec 19-23 with after care</option>
 <option value="winter2"> Fantasy & Magic Camp Dec 27-30</option>
+<option value="winter2A"> Fantasy & Magic Camp Dec 27-30 with after care</option>
 <option value="winterboth"> Fantasy & Magic both sessions</option>
+<option value="winterbothA"> Fantasy & Magic both sessions with after care</option>
+
 </select>
+<!--
 <span id="lunchq" style="display: none">
 <label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="lunch" value="Add catered lunch for $50?" id="lunch" role="checkbox" class="ss-q-checkbox" aria-required="true" required=""></span>
 <span class="ss-choice-label">Add catered lunch for $50?</span></label></span>
@@ -71,6 +77,8 @@ function updateClasssel()
 <span id="afterallq" style="display: none">
 <label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="afterall" value="Is after care needed? (3pm - 5pm, $400)" id="afterall" role="checkbox" class="ss-q-checkbox" aria-required="true" required=""></span>
 <span class="ss-choice-label">Is after care needed? (3pm - 5pm, $400)</span></label></span>
+-->
+
 </form>
 <script>
  $(function(){
