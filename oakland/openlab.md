@@ -20,7 +20,6 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 
 - October 23rd, 2016: NO OPEN LAB! Come see us at the East Bay Mini Maker Faire!
 - October 30th, 2016: Snap O Lanterns, Last Minute Halloween Prep (Accessories, Lighted Masks, etc)
-- OCTOBER 28-30th: HACKER HAUNTED HOUSE! Come see our kid designed, built, and staffed house of hacker horror! Also fun games and projects! More info and tickets coming soon!
 - November 6th, 2016: Bows & Arrows
 - November 13th, 2016: Hebocon: Silly Robot Design and Battle!
 - November 20th, 2016: Day Of Service Project
