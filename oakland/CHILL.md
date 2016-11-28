@@ -22,14 +22,13 @@ Thursday and/or Friday 10am-2pm
 
 Fall Theme: As voted on by the kids at CHILL, the Fall 2016 exhibition theme will be "Fantasy and Magic"
 
-<br><span class="date" style="display: inline;">Register: </span><span class='buttonsmall ltblue' onClick="window.location.assign('/classes.html');">Schedule</span>
-
 "Not Happily Ever After" A CHILL Fantasy & Magic Theatre
 Join us for interactive theatre and a following exhibition of CHILL's exploration of fantasy and magic. Beginning with the play "Not Happily Ever After" -designed, written, directed, and acted out by CHILL members and ending with a viewing of the diverse projects that the group created this fall, this CHILL event is the best one yet!
 
 Opening Night: Friday at 7pm!
 Two shows on Saturday: 11am and 2pm!
 Get your tickets now! Limited seats!
+
 <A HREF="http://www.brownpapertickets.com/event/2722054">Buy tickets for "Not Happily Ever After" A CHILL Fantasy & Magic Theatre</A>
 
 ##### How did this program come about?
