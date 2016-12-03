@@ -24,9 +24,9 @@ Open Labs are all ages and a great way to get started! You can come for the feat
 - November 13th, 2016: Hebocon: Silly Robot Design and Battle!
 - November 20th, 2016: Day Of Service Project
 - November 27th, 2016: NO OPEN LAB
-- December 4th, 2016: DIY Custom Holiday Wreaths and Giant Snowflakes
-- December 11th, 2016: CHILL Fantasy & Magic Exhibition and Performance! Open to the Public! (NO OPEN LAB)
-- December 18th, 2016: Festival of Lights: LED Menorahs, Ornaments, Trees and Blowing Ships!
+- December 4th, 2016: NO OPEN LAB
+- December 11th, 2016: NO OPEN LAB (Check out the CHILL Fantasy & Magic Exhibition and Performance on Friday and Saturday!)
+- December 18th, 2016: NO OPEN LAB
 - December 25th, 2016: NO OPEN LAB
 
 
